@@ -1,8 +1,7 @@
 # Reddit Score Prediction - Kaggle Competition
 ## M2 ECO-STAT 2020-2021 Final Project
 
-Team members: TOURRET Alice, MARINIER Solène
-
+Team members: TOURRET Alice, MARINIER Solène  
 Notes: The objective of this competition is to perform the prediction of Reddit comments popularity combining network and text mining techniques.
 
 ### ARCHITECTURE (.zip)
@@ -18,17 +17,17 @@ df_body_cleaned.pkl
 submission.csv
 
 #### Additional data sources:
-comments_students.csv \\
-df_inter.pkl \\
-new_df.pkl \\
+comments_students.csv  
+df_inter.pkl  
+new_df.pkl  
 
 #### Notebooks:
-01_data_cleansing.ipynb \\
-02_text_preprocessing.ipynb \\ 
-021_pre-trained_sentiment_analysis.ipynb \\ 
-022_word_association.ipynb \\ 
-03_tfidf_vectorizer.ipynb \\
-04_modeling.ipynb \\
+01_data_cleansing.ipynb  
+02_text_preprocessing.ipynb   
+021_pre-trained_sentiment_analysis.ipynb  
+022_word_association.ipynb  
+03_tfidf_vectorizer.ipynb  
+04_modeling.ipynb  
 
 ### EXECUTION
 
