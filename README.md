@@ -2,6 +2,7 @@
 ## M2 ECO-STAT 2020-2021 Final Project
 
 Team members: TOURRET Alice, MARINIER Solène
+
 Notes: The objective of this competition is to perform the prediction of Reddit comments popularity combining network and text mining techniques.
 
 ### ARCHITECTURE (.zip)
@@ -34,7 +35,7 @@ new_df.pkl
 We have splitted our code into multiple python notebooks for clarity purposes. In order to run the model without running all preprocessing steps you only
 need `df_body_cleaned` and `word_features` (from TF-IDF) which are included in the repository. Then you can launch the execution starting from the cell "To be executed" in notebook `04_modeling.ipynb`. 
 
-If you want to execute all other notebooks, the additional data sources have been saved as pickle files and are available at this [link] (to avoid huge storage folder)(https://filesender.renater.fr/?s=download&token=8fdeec5c-b11b-4024-95bb-4c4f7870b578). You just have to follow the notebooks then. When the execution is very time consuming,
+If you want to execute all other notebooks, the additional data sources have been saved as pickle files and are available at this [link](https://filesender.renater.fr/?s=download&token=8fdeec5c-b11b-4024-95bb-4c4f7870b578). You just have to follow the notebooks then. When the execution is very time consuming,
 it is specified whithin the notebook.
 
 You may have to install some libraries. The ones used in our code are specified in the `requirements.txt` file with their corresponding version.
