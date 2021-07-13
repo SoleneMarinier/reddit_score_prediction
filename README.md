@@ -9,9 +9,9 @@ Notes: The objective of this competition is to perform the prediction of Reddit 
 README.txt
 
 #### Data:
-Needed for training the model and evaluating its performance:
-word_features.pkl
-df_body_cleaned.pkl
+Needed for training the model and evaluating its performance:  
+word_features.pkl  
+df_body_cleaned.pkl  
 
 #### Predictions:
 submission.csv
