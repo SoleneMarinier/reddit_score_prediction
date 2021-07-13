@@ -18,17 +18,17 @@ df_body_cleaned.pkl
 submission.csv
 
 #### Additional data sources:
-comments_students.csv
-df_inter.pkl
-new_df.pkl
+comments_students.csv \\
+df_inter.pkl \\
+new_df.pkl \\
 
 #### Notebooks:
-01_data_cleansing.ipynb
-02_text_preprocessing.ipynb
-021_pre-trained_sentiment_analysis.ipynb
-022_word_association.ipynb
-03_tfidf_vectorizer.ipynb
-04_modeling.ipynb
+01_data_cleansing.ipynb \\
+02_text_preprocessing.ipynb \\ 
+021_pre-trained_sentiment_analysis.ipynb \\ 
+022_word_association.ipynb \\ 
+03_tfidf_vectorizer.ipynb \\
+04_modeling.ipynb \\
 
 ### EXECUTION
 
